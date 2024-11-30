@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|c:\\users\\kumar\\desktop\\online bus booking system\\code\\busbookingproject\\busbookingproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|solutionrelative:busbookingproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|c:\\users\\kumar\\desktop\\online bus booking system\\code\\busbookingproject\\busbookingproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|solutionrelative:busbookingproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\busbookingproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|solutionrelative:busbookingproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|c:\\users\\kumar\\desktop\\online bus booking system\\code\\busbookingproject\\busbookingproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|solutionrelative:busbookingproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Login.aspx",
+              "RelativeDocumentMoniker": "BusBookingProject\\Login.aspx",
+              "ToolTip": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Login.aspx",
+              "RelativeToolTip": "BusBookingProject\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T06:55:00.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Home.aspx",
+              "RelativeDocumentMoniker": "BusBookingProject\\Home.aspx",
+              "ToolTip": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Home.aspx",
+              "RelativeToolTip": "BusBookingProject\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T06:53:38.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:751073298:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Web.config",
+              "RelativeDocumentMoniker": "BusBookingProject\\Web.config",
+              "ToolTip": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Web.config",
+              "RelativeToolTip": "BusBookingProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T04:42:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Default.aspx",
+              "RelativeDocumentMoniker": "BusBookingProject\\Default.aspx",
+              "ToolTip": "C:\\Users\\kumar\\Desktop\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Default.aspx",
+              "RelativeToolTip": "BusBookingProject\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T04:41:46.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
